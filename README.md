@@ -1,1 +1,1 @@
-# partner-portal with jenkinsfile
+# partner-portal with jenkinsfile.
